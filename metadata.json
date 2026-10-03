@@ -1,0 +1,6 @@
+{
+  "name": "ReliefGrid",
+  "description": "Intelligent and transparent disaster relief platform that dynamically allocates scarce emergency resources during a changing disaster and keeps a tamper-evident cryptographic ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
