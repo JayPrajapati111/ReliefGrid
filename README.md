@@ -61,13 +61,6 @@ Copy `.env.example` to `.env` and fill in any values listed there. Never commit 
 └── .env.example
 ```
 
-## Team
-
-- Jay Prajapati
-- Mujaddid Shaikh
-- Aaquib Shaikh
-- Aakash Rajbhar
-
 ## Hackathon
 
 Elevate 1.0, Dwarkadas J. Sanghvi College of Engineering (DJS NSDC), EL-02: Intelligent & Transparent Disaster Relief Resource Allocation.
